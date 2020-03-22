@@ -1,4 +1,6 @@
 \venv
 \.idea
-\~*
-\*.log
+~*
+*.log
+*.tmp
+*.pyc
